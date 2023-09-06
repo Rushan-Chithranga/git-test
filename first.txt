@@ -9,3 +9,4 @@ third line
 fourth line(branch-a)
 fifth line(branch-a)
 sixth line(branch-a)
+seventh line(branch-a)
