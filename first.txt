@@ -6,3 +6,4 @@ third line
 fourth line(?branch-b)
 fifth line(branch-b)
 sixth line(branch-b)
+seventh line(branch-b)
