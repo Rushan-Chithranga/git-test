@@ -16,3 +16,5 @@ seventh line(branch-b)
 =======
 
 >>>>>>> branch-b
+
+eighth line
