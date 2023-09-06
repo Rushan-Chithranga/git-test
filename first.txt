@@ -2,18 +2,17 @@ first line
 second line
 third line
 
+fourth line(branch-a)
+fourth line(?branch-b)
+fifth line(branch-a)
+fifth line(branch-b)
+sixth line(branch-a)
+sixth line(branch-b)
+seventh line(branch-a)
+seventh line(branch-b)
 
 <<<<<<< HEAD
 
-
-
-fourth line(branch-a)
-fifth line(branch-a)
-sixth line(branch-a)
-seventh line(branch-a)
 =======
-fourth line(?branch-b)
-fifth line(branch-b)
-sixth line(branch-b)
-seventh line(branch-b)
+
 >>>>>>> branch-b
