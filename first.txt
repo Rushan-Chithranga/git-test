@@ -3,6 +3,7 @@ second line
 third line
 
 
+<<<<<<< HEAD
 
 
 
@@ -10,3 +11,9 @@ fourth line(branch-a)
 fifth line(branch-a)
 sixth line(branch-a)
 seventh line(branch-a)
+=======
+fourth line(?branch-b)
+fifth line(branch-b)
+sixth line(branch-b)
+seventh line(branch-b)
+>>>>>>> branch-b
